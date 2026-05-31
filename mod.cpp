@@ -1,0 +1,10 @@
+name = "我的自定义臂章包";
+picture = "";           // 如果有logo.paa可以填路径
+logo = "";
+logoOver = "";
+actionName = "GitHub";
+action = "";
+tooltip = "自定义臂章";
+tooltipOwned = "自定义臂章模组";
+overview = "添加两个自定义臂章到游戏中。";
+author = "你的名字";
