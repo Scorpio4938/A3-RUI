@@ -3,7 +3,7 @@ class CfgPatches
     class RussianUkraineInsignia
     { // ← 改成和文件夹名一致
         name = "RussianUkraineInsignia";
-        author = "SCORPIO4938";
+        author = "Scorpio493.8";
         units[] = {};
         weapons[] = {};
         requiredVersion = 1.96;
@@ -16,8 +16,16 @@ class CfgUnitInsignia
     class Patch_ru
     {
         displayName = "Russian Flag";
-        author = "SCORPIO4938";
+        author = "Scorpio493.8";
         texture = "SCORPIO4938_\RussianUkraineInsignia\data\ru.paa";
+        textureVehicle = "";
+    };
+
+    class Patch_ua
+    {
+        displayName = "Ukrainian Flag";
+        author = "Scorpio493.8";
+        texture = "SCORPIO4938_\RussianUkraineInsignia\data\ua.paa";
         textureVehicle = "";
     };
 };
