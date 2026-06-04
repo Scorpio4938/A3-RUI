@@ -13,19 +13,11 @@ class CfgPatches
 
 class CfgUnitInsignia
 {
-    class Patch_ru_0
+    class Patch_ru
     {
-        displayName = "Russia Flag 0";
+        displayName = "Russian Flag";
         author = "SCORPIO4938";
-        texture = "SCORPIO4938_\RussianUkraineInsignia\data\ru0.paa";
-        textureVehicle = "";
-    };
-
-    class Patch_ru_1
-    {
-        displayName = "Russia Flag 1";
-        author = "SCORPIO4938";
-        texture = "SCORPIO4938_\RussianUkraineInsignia\data\ru1.paa";
+        texture = "SCORPIO4938_\RussianUkraineInsignia\data\ru.paa";
         textureVehicle = "";
     };
 };
