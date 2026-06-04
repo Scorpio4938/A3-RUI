@@ -1,7 +1,7 @@
 class CfgPatches
 {
     class RussianUkraineInsignia
-    { // ← 改成和文件夹名一致
+    {
         name = "RussianUkraineInsignia";
         author = "Scorpio493.8";
         units[] = {};

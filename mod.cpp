@@ -1,9 +1,9 @@
 name = "Russian Ukraine Insignias";
-picture = "SCORPIO4938_\RussianUkraineInsignia\data\ru.paa";           // 如果有logo.paa可以填路径
+picture = "SCORPIO4938_\RussianUkraineInsignia\data\ru.paa";
 logo = "SCORPIO4938_\RussianUkraineInsignia\data\ru.paa";
 logoOver = "SCORPIO4938_\RussianUkraineInsignia\data\ru.paa";
 actionName = "GitHub";
-action = "";
+action = "https://github.com/Scorpio4938/A3-RUI.git";
 tooltip = "Custom Russian Ukraine Insignias";
 tooltipOwned = "Custom Russian Ukraine Insignias Mod";
 overview = "Add Custom Russian Ukraine Insignias";
