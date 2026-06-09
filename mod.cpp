@@ -1,7 +1,7 @@
 name = "Russian Ukraine Insignias";
-picture = "SCORPIO4938_\RussianUkraineInsignia\data\ru.paa";
-logo = "SCORPIO4938_\RussianUkraineInsignia\data\ru.paa";
-logoOver = "SCORPIO4938_\RussianUkraineInsignia\data\ru.paa";
+picture = "SCORPIO4938_\RussianUkraineInsignia\addons\RussianUkraineInsignia\data\ru.paa";
+logo = "SCORPIO4938_\RussianUkraineInsignia\addons\RussianUkraineInsignia\data\ru.paa";
+logoOver = "SCORPIO4938_\RussianUkraineInsignia\addons\RussianUkraineInsignia\data\ru.paa";
 actionName = "GitHub";
 action = "https://github.com/Scorpio4938/A3-RUI";
 tooltip = "Custom Russian Ukraine Insignias";

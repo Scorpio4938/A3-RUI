@@ -5,7 +5,9 @@ Simple shoulder patches for Arma 3, with Russian and Ukrainian flags.
 ## Contents
 
 - Russian flag insignia
+- Russian flag small insignia
 - Ukrainian flag insignia
+- Ukrainian flag small insignia
 
 ## Source
 
